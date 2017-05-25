@@ -4,6 +4,7 @@ Playground for Ramda & Ramda-Fantasy
 This is a little boileplate for playing around with [Ramda][] and [Ramda-Fantasy][]
 
 This boilerplate uses [jest][] as a testing framework.
+
 I write simple scripts directly in the `index.spec.js` file and leave jest watch running via the `npm run test:watch` task.
 
 ## Scripts
